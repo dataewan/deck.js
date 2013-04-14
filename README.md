@@ -2,6 +2,12 @@
 
 A JavaScript library for building modern HTML presentations. deck.js is flexible enough to let advanced CSS and JavaScript authors craft highly customized decks, but also provides templates and themes for the HTML novice to build a standard slideshow.
 
+## dataewan changes
+
+I've installed [compass](http://compass-style.org/) and [blueprint](http://compass-style.org/reference/blueprint/) and made my own theme.
+
+There is also a ``presenting analysis`` directory, where I experiment with how to present analysis using deck.js.
+
 ## Quick Start
 
 This repository includes a `boilerplate.html` as a starting point, with all the extensions included. Just [download it](https://github.com/imakewebthings/deck.js/zipball/stable), open `boilerplate.html`, and start editing your slides.
